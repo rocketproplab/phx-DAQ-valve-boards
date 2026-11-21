@@ -1,4 +1,3 @@
-#include "constants.h"
 #include "w5500.h"
 #include <Wire.h>
 
